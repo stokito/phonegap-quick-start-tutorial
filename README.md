@@ -1,5 +1,8 @@
 # PhoneGap Quick start guide
 
+v. 1.0.1 23 April 2012
+
+
 [[TOC]]
 
 ## Goal of this document
@@ -77,7 +80,7 @@ QUnit is unit testing framework for JavaScript based on top of jQuery. Is quite 
 
 ## How to develop?
 
-[Official PG tutorial](http://www.google.com/url?q=http%3A%2F%2Fdocs.phonegap.com%2Fen%2F1.5.0%2Fguide_getting-started_index.md.html%23Getting%2520Started%2520Guides&sa=D&sntz=1&usg=AFQjCNFN4lC9YES9D7lv2H2Fugyxn8hhYQ) provide an information about developing for different platforms. It is not required any special SDK for PG - he is just a usual library attached to project (*.jar or *.dmg file).
+[Official PG tutorial](http://www.google.com/url?q=http%3A%2F%2Fdocs.phonegap.com%2Fen%2F1.5.0%2Fguide_getting-started_index.md.html%23Getting%2520Started%2520Guides&sa=D&sntz=1&usg=AFQjCNFN4lC9YES9D7lv2H2Fugyxn8hhYQ) provide an information about developing for different platforms. It is not required any special SDK for PG - he is just a usual library attached to project (`*.jar` or `*.dmg` file).
 
 Let’s start developing of Android application.
 
@@ -87,7 +90,7 @@ We will use Java JDK 6 and Android SDK 2.2. Also we will use Idea 11 as developm
 
 1. Download and Install JDK 6
 
-2. Download and install Android SDK [http://developer.android.com/sdk/index.html](http://developer.android.com/sdk/index.html)
+2. Download and install [Android SDK](http://developer.android.com/sdk/index.html)
 
 3. Open Android SDK manager and install Android 2.2 (API 8) package.
 
@@ -352,5 +355,3 @@ Then upload `/assets/www/` folder to PG build service and he will start a build 
 ## Authors
 * Sergey Ponomarev
 * Dmitry Stonaev
-
-v. 1.0.1 23 April 2012
