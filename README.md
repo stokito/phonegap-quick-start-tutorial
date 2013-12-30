@@ -2,6 +2,8 @@
 
 v. 1.0.1 23 April 2012
 
+Quick start guide for [Apache Cordova](https://cordova.apache.org/) (PhoneGap). Little bit old, but still good enough
+
 
 [[TOC]]
 
