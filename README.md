@@ -89,11 +89,8 @@ Let’s start developing of Android application.
 We will use Java JDK 6 and Android SDK 2.2. Also we will use Idea 11 as development environment.
 
 1. Download and Install JDK 6
-
 2. Download and install [Android SDK](http://developer.android.com/sdk/index.html)
-
 3. Open Android SDK manager and install Android 2.2 (API 8) package.
-
 4. Run the Idea
 
 Create new project from scratch with Android module.
