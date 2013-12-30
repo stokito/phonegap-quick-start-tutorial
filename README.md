@@ -316,7 +316,15 @@ Example of resulting manifest:
 
 Now create and open a new file named index.html in the **`/assets/www**/` directory. Paste the following code:
 
-<!DOCTYPE HTML><html><head>	<title>PhoneGap</title></head><body><h1>Hello World</h1></body></html>
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>PhoneGap</title>
+</head>
+<body>
+<h1>Hello World</h1>
+</body>
+</html>
 
 Run this application and enjoy.
 
